@@ -110,6 +110,7 @@
 {"key":"csp_appysv2_F7高清","name":"F7高清(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bc.haokanju1.cc/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_DC影视","name":"DC影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
 {"key":"csp_appysv2_4K影院","name":"4K影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1api.4kdytv.com/api.php/v1.vod"},
+{"key":"8k","name":"8k","type":1,"api":"http://tvappjsonapi.8kvod.com:888/8kvodapilgxc.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"csp_appysv2_300看世界","name":"300看世界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
