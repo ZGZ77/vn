@@ -3,23 +3,23 @@
 "spider":"https://agit.ai/tong93/maotv/raw/branch/master/xpath/custom_spider.jar",
 
 "sites":[
-{"key":"csp_CZSPP","name":"🕷️厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Buka","name":"🕷️真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"csp_Auete","name":"🕷️Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
-{"key":"csp_DiDuan","name":"🕷️低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"🕷️喵狸盘搜（仅支持搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Nbys","name":"🕷️泥巴(需vpn)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Lgyy","name":"🕷️蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Zxzj","name":"🕷️在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Cokemv","name":"🕷️Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_JuHuang","name":"🕷️剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Fantuan","name":"🕷️饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Subaibai","name":"🕷️素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Qicui","name":"🕷️奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_DY1990","name":"🕷️90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xpath_Hdmoli","name":"🕷️Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/tong93/YuanHsing/raw/master/xpath/hdmoli.json"},
-{"key":"csp_xpath_egg","name":"🕷️蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/tong93/YuanHsing/raw/master/xpath/dandan.json"},
-{"key":"csp_xpath_Gaze","name":"🕷️注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/tong93/YuanHsing/raw/master/xpath/gaze.json"},
+{"key":"csp_CZSPP","name":"🦊厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Buka","name":"🦊真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"csp_Auete","name":"🦊Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
+{"key":"csp_DiDuan","name":"🦊低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_AliPanSou","name":"🦊喵狸盘搜（仅支持搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Nbys","name":"🦊泥巴(需vpn)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Lgyy","name":"🦊蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Zxzj","name":"🦊在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Cokemv","name":"🦊Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_JuHuang","name":"🦊剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Fantuan","name":"🦊饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Subaibai","name":"🦊素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Qicui","name":"🦊奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_DY1990","name":"🦊90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_xpath_Hdmoli","name":"🦊Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/tong93/YuanHsing/raw/master/xpath/hdmoli.json"},
+{"key":"csp_xpath_egg","name":"🦊蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/tong93/YuanHsing/raw/master/xpath/dandan.json"},
+{"key":"csp_xpath_Gaze","name":"🦊注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/tong93/YuanHsing/raw/master/xpath/gaze.json"},
 
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/tong93/YuanHsing/raw/master/xpath/duboku.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
@@ -112,7 +112,7 @@
 ],
 "lives":[
 {"group":"redirect","channels":[
-{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90b25nOTMubmVvY2l0aWVzLm9yZy9tYW96Yi50eHQ="]}
+{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy90b25nOTMvbWFvdHYvcmF3L21hc3Rlci9tYW96Yi50eHQ="]}
 ]}
 ],
 "parses":[
