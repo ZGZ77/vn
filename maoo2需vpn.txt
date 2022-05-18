@@ -8,7 +8,7 @@
 ## 02.🐉明接口
 //"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/xm.jar",
 ## 03.🐱S接口
-"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/baikan.jar",
+"spider":"https://agit.ai/tong93/maotv/raw/branch/master/xpath/baikan.jar",
 
 
 # 直播 (择一使用👇)
