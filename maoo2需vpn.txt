@@ -4,11 +4,11 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-"spider":"https://agit.ai/tong93/maotv/raw/branch/master/xpath/5.6推送custom_spider.jar",
+//"spider":"https://agit.ai/tong93/maotv/raw/branch/master/xpath/5.6推送custom_spider.jar",
 ## 02.🐉明接口
 //"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/xm.jar",
 ## 03.🐱S接口
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/baikan.jar",
+"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/baikan.jar",
 
 
 # 直播 (择一使用👇)
