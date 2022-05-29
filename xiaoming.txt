@@ -375,5 +375,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "https://notabug.org/maotvvvvvv/220522/raw/master/xm.jar"
+  "spider": "https://agit.ai/tong93/maotv/raw/branch/master/xpath/xm.jar"
 }
