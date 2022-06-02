@@ -2,60 +2,60 @@
   "sites": [
      {
       "key": "csp_NaNa",
-      "name": "👒 七七",
+      "name": "👒已停用",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "سبعة وسبعة"
+      "ext": "سبعة"
     },
      {
       "key": "csp_DiDuan",
-      "name": "🌀 低端影视",
+      "name": "🌀 已停用",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "السينما والتلفزيون الرديئة"
+      "ext": "السينما واديئة"
     },
     {
       "key": "csp_CZSPP",
-      "name": "🚬 厂长资源",
+      "name": "🚬已停用",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "موارد مدير المصنع"
+      "ext": "مواردع"
     },
      {
       "key": "csp_360",
-      "name": "🎾 360",
+      "name": "🎾 已停用",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "cst",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ثلاثة مائة وستون"
+      "ext": "ثلاثة مستون"
      },
  
     {
       "key": "csp_Buka",
-      "name": "🧼 真不卡",
+      "name": "🧼 已停用",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "csp_at",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "حقا ليس عالقا"
+      "ext": "حقالقا"
     },
     {
       "key": "csp_Auete",
       "name": "🧿 Auete",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "csp_at",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -65,7 +65,7 @@
       "key": "csp_AliPanSou",
       "name": "🐱 喵狸盘搜",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "csp_Coat",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -75,7 +75,7 @@
       "key": "csp_GitCafe",
       "name": "🦊 小纸条",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "csp_Cat",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -125,7 +125,7 @@
       "key": "push_agent",
       "name": "🍭 推送",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "csp_t",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -375,5 +375,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "jar"
+  "spider": ""
 }
