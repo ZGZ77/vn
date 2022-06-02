@@ -375,5 +375,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "https://gitee.com/zhao-zhongguo/MT/blob/master/xpath/xm.jar"
+  "spider": "https://github.com/ZGZ77/vn/blob/master/xpath/xm.jar"
 }
